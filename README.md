@@ -2,7 +2,7 @@
 
 
 ## What it does
-An app buit with React an Github API with a purpose of searching and displaying data of user's profiles.
+An app built with React an Github API with a purpose of searching and displaying data of user's profiles.
 
 
 ## How it works 
