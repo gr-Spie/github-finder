@@ -6,8 +6,8 @@ An app built with React an Github API with a purpose of searching and displaying
 
 
 ## How it works 
-- Fetching users from Github with API.
-- Displaying a grid of users based on a search query.
+- Fetching users from Github with an API.
+- Displaying a grid of users based on the search query.
 - Showing aditional data of a certain user.
 
 Not the most exciting application, but it is what it is...
