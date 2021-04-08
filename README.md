@@ -11,3 +11,5 @@ An app built with React an Github API with a purpose of searching and displaying
 - Showing aditional data of a certain user.
 
 Not the most exciting application, but it is what it is...
+
+**LIVE** version [HERE](https://githubfinder-grspie.netlify.app/)
